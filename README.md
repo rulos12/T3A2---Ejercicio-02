@@ -24,5 +24,6 @@ Hora: 16
 Entre las 10 hrs del lunes y las 16 hrs del miércoles hay 54 horas.
 
 ## Etapa 3. Diseño de la solución
+![](https://github.com/rulos12/T3A2---Ejercicio-02/blob/main/T3A2.png)
 
 ## Etapa 4.Desarrollo de la solución
