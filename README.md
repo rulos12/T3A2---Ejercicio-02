@@ -12,6 +12,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
   - Hora final
 2. Proceso:
   - Diferencia de horas entre el dia posterior menos el dia anterior 
+  - diferencia= 
 3. Salida:
 
 Por favor, introduzca el día y hora inicial.
