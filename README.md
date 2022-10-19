@@ -17,16 +17,12 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 Por favor, introduzca el día y hora inicial. 
 
-Día: lunes.
-
+Día: lunes.  
 Hora: 10.
-
 Por favor, introduzca el día y hora final.
 
-Día: miércoles.
-
+Día: miércoles.  
 Hora: 16.
-
 Entre las 10 hrs del lunes y las 16 hrs del miércoles hay 54 horas.
 
 ## Etapa 3. Diseño de la solución
