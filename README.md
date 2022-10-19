@@ -14,17 +14,18 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
   - Diferencia del dia final y el dia de inicio menos uno y multiplicar por 24 y al producto sumar la diferencia de 24 menos hora inicial mas hora final 
   - operacion = (((diaFinal-diaInicio)-1)*24)+((24-horaInicio)+horaFinal)
 3. Salida:
-
-Por favor, introduzca el día y hora inicial. 
-
-Día: lunes.  
-Hora: 10.
-Por favor, introduzca el día y hora final.
-
-Día: miércoles.  
-Hora: 16.
-Entre las 10 hrs del lunes y las 16 hrs del miércoles hay 54 horas.
-
++---------------------------------------------------------------------+
+|                                                                     |
+|  Por favor, introduzca el día y hora inicial.                       |
+|                                                                     |
+| Día: lunes.                                                         |
+| Hora: 10.                                                           |
+| Por favor, introduzca el día y hora final.                          |
+|                                                                     |
+| Día: miércoles.                                                     |
+| Hora: 16.                                                           |
+| Entre las 10 hrs del lunes y las 16 hrs del miércoles hay 54 horas. |
++---------------------------------------------------------------------+
 ## Etapa 3. Diseño de la solución
 ![](https://github.com/rulos12/T3A2---Ejercicio-02/blob/main/T3A2.png)
 
